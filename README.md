@@ -4,7 +4,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat. 
 
-[Clique aqui para acessar](https://flaviasiv.github.io/NLW_ESPORTS/)
+[Clique aqui para acessar](https://github.com/flaviasiv/MARATONA_EXPLORER_NLWESPORTS)
 
 >Tecnologias
 
